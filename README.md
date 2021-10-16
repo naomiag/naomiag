@@ -16,7 +16,7 @@
 - 📌 My target is to enrich my characters and my goal is to be the best version of myself.
 
 ### Connect with me:
-<img align="left" alt="" src="https://img.icons8.com/fluency/48/000000/domain.png"/>
+[<img align="left" alt="" src="https://img.icons8.com/fluency/48/000000/domain.png"/>][website]
 [<img align="left" href="https://linkedin.com/in/naomiagathageraldine"alt="https://linkedin.com/in/naomiagathageraldine" src="https://img.icons8.com/color/50/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt=" https://instagram.com/naomiasitorus" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
 <br />
