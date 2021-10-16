@@ -17,8 +17,8 @@
 
 ### Connect with me:
 <img align="left" alt="" src="https://img.icons8.com/fluency/48/000000/domain.png"/>
-<img align="left" alt="https://linkedin.com/in/naomiagathageraldine" src="https://img.icons8.com/color/50/000000/linkedin.png"/>[linkedin]
-<img align="left" alt=" https://instagram.com/naomiasitorus" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>[instagram]
+[<img align="left" alt="https://linkedin.com/in/naomiagathageraldine" src="https://img.icons8.com/color/50/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt=" https://instagram.com/naomiasitorus" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
 
 <br />
 
