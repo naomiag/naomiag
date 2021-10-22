@@ -15,6 +15,8 @@
 - 💡 I always set target and goal in my life. 
 - 📌 My target is to enrich my characters and my goal is to be the best version of myself.
 
+You also can contact me at: naomiagathageraldine@gmail.com
+
 ### Connect with me:
 [<img align="left" alt="" src="https://img.icons8.com/fluency/48/000000/domain.png"/>][website]
 [<img allign="left" alt="LinkedIn | https://linkedin.com/in/naomiagathageraldine" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
