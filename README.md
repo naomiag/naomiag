@@ -3,7 +3,7 @@
 ## Currently, I'm studying at BINUS University and majoring in Computer Science.
 - 🚩 I have passion in Data Analysis. I think that's fun to gain insight from data.
 - 😃 I chose Database Technology for my stream course.
-- 😃 I have learned code with C/C++, Phython, SQL, R, HTML, CSS, and Javascript.
+- 😃 I have learned code with C/C++, Python, SQL, R, HTML, CSS, and Javascript.
 - 😃 I really like to work with data.
 - 😃 And I also love to learn from people arround me.
 
