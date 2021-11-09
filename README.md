@@ -16,10 +16,11 @@
 - 📌 My target is to enrich my characters and my goal is to be the best version of myself.
 
 <br>
-P.S <br>
+P.S. <br>
 🎨 Check my desing porto too at: https://bit.ly/3mgYxXj <br>
 📧 You can also contact me at: naomiagathageraldine@gmail.com <br>
 
+<hr>
 
 ### Connect with me:
 [<img align="left" alt="" src="https://img.icons8.com/fluency/48/000000/domain.png"/>][website]
