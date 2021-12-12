@@ -30,9 +30,6 @@ P.S. <br>
 [<img allign="left" alt="LinkedIn | https://linkedin.com/in/naomiagathageraldine" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="Intagram | https://instagram.com/naomiasitorus" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
 
-<br />
-<br />
-
 ---
 
 [website]: https://google.com
