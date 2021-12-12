@@ -1,11 +1,14 @@
-# Hi! My Name is Naomi Agatha Geraldine, you can call me Naomi😃
+
+![github header](https://user-images.githubusercontent.com/92441325/145719491-9c18d76d-9284-4dd8-a0a8-da77991a9fff.png)
+
+# Hi! My Name is Naomi😃
 
 ## Currently, I'm studying at BINUS University and majoring in Computer Science.
 - 🚩 I have passion in Data Analysis. I think that's fun to gain insight from data.
 - 😃 I chose Database Technology for my stream course.
 - 😃 I have learned code with C/C++, Python, SQL, R, HTML, CSS, and Javascript.
 - 😃 I really like to work with data.
-- 😃 And I also love to learn from people arround me.
+- 😃 And I also love to learn new things.
 
 ### More about my personality.
 - 😎 I am an extrovert and I love to meet new person and learn about new thing.
@@ -17,7 +20,7 @@
 
 <br>
 P.S. <br>
-🎨 Check my desing porto too at: https://bit.ly/3mgYxXj <br>
+🎨 Don't forget to check my design porto at: https://bit.ly/3mgYxXj <br>
 📧 You can also contact me at: naomiagathageraldine@gmail.com <br>
 
 <hr>
