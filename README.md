@@ -32,6 +32,6 @@ P.S. <br>
 
 ---
 
-[website]: https://google.com
+[website]: https://naomiag.github.io/naomiAgeraldine.github.io/
 [linkedin]: https://linkedin.com/in/naomiagathageraldine
 [instagram]: https://instagram.com/naomiasitorus
